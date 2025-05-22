@@ -1,12 +1,209 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MES\\Desktop\\PROJEFCT\\UrlShortenerProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\controllers\\shortencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:controllers\\shortencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\entities\\urlshortening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:entities\\urlshortening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\entities\\redirectlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:entities\\redirectlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\urlshortenerproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:urlshortenerproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\urlshortenerproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:urlshortenerproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|c:\\users\\asus\\source\\repos\\url-shortoner\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1CDAA9F-4D3D-49C4-A339-6683F109C98E}|UrlShortenerProject.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShortenController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Controllers\\ShortenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShortenController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Controllers\\ShortenController.cs",
+              "RelativeToolTip": "Controllers\\ShortenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:17:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:15:28.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Database\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:14:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "urlShortening.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Entities\\urlShortening.cs",
+              "RelativeDocumentMoniker": "Entities\\urlShortening.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Entities\\urlShortening.cs",
+              "RelativeToolTip": "Entities\\urlShortening.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:52:20.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "redirectLog.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Entities\\redirectLog.cs",
+              "RelativeDocumentMoniker": "Entities\\redirectLog.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Entities\\redirectLog.cs",
+              "RelativeToolTip": "Entities\\redirectLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:50:09.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:47:22.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:02:42.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrlShortenerProject.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\UrlShortenerProject.csproj",
+              "RelativeDocumentMoniker": "UrlShortenerProject.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\UrlShortenerProject.csproj",
+              "RelativeToolTip": "UrlShortenerProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T17:03:45.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrlShortenerProject",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\UrlShortenerProject.csproj",
+              "RelativeDocumentMoniker": "UrlShortenerProject.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\UrlShortenerProject.csproj",
+              "RelativeToolTip": "UrlShortenerProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T17:03:41.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T17:03:32.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\URL-shortoner\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T17:02:31.977Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

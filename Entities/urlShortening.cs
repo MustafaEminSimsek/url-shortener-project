@@ -7,5 +7,5 @@
         public string ShortUrl { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public List<redirectLog> AccessLogs { get; set; }
-    }
+    }   
 }
