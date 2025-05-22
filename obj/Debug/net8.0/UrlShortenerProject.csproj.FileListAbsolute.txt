@@ -34,3 +34,6 @@ C:\Users\MES\Desktop\PROJEFCT\UrlShortenerProject\obj\Debug\net8.0\refint\UrlSho
 C:\Users\MES\Desktop\PROJEFCT\UrlShortenerProject\obj\Debug\net8.0\UrlShortenerProject.pdb
 C:\Users\MES\Desktop\PROJEFCT\UrlShortenerProject\obj\Debug\net8.0\UrlShortenerProject.genruntimeconfig.cache
 C:\Users\MES\Desktop\PROJEFCT\UrlShortenerProject\obj\Debug\net8.0\ref\UrlShortenerProject.dll
+C:\Users\ASUS\source\repos\URL-shortoner\obj\Debug\net8.0\UrlShortenerProject.dll
+C:\Users\ASUS\source\repos\URL-shortoner\obj\Debug\net8.0\refint\UrlShortenerProject.dll
+C:\Users\ASUS\source\repos\URL-shortoner\obj\Debug\net8.0\UrlShortenerProject.pdb
